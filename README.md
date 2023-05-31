@@ -48,3 +48,8 @@ images, what this app can do is simulate this
 
 In the data folder you'll find some examples of this, calibration configuration sample file (converted to ROS2 calibration file from 2009_09_08_calib.txt for the left camera (camera 1)) and some images. Start up `image_proc` as you would to rectify
 your images and you should be good to go.
+
+
+
+# Testing visualization of codebase
+[Link to visualization](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=Sky360-Repository%2Fsimpletracker-ros2-ws)
