@@ -52,4 +52,4 @@ your images and you should be good to go.
 
 
 # Testing visualization of codebase
-[Link to visualization](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=Sky360-Repository%2Fsimpletracker-ros2-ws)
+[Link to visualization](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=Sky360-Repository%2Fros2_video_streamer)
